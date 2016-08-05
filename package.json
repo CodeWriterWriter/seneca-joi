@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "joi": "9.0.4",
-    "lodash": "4.5.0"
+    "lodash": "4.6.0"
   },
   "devDependencies": {
     "eslint-config-seneca": "1.1.2",
